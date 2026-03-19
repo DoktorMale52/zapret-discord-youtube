@@ -62,12 +62,12 @@ call :check_updates_switch_status
 set "menu_choice=null"
 
 echo.
-echo   ZAPRET SERVICE MANAGER v!LOCAL_VERSION!
+echo   
 echo   ----------------------------------------
 echo.
 echo   :: SERVICE
 echo      1. Install Service
-echo      2. Remove Services
+echo     
 echo      3. Check Status
 echo.
 echo   :: SETTINGS
